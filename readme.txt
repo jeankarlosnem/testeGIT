@@ -10,3 +10,6 @@ versao 3
 
 
 teste remoto
+
+
+teste remoto clonado
